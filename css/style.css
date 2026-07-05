@@ -1,0 +1,20 @@
+/* Estilos resetados */
+@import "/css/componentes/global.css";
+
+/* Container Geral */
+@import "/css/componentes/container-geral.css";
+
+/* Header */
+@import "/css/componentes/header.css";
+
+/* Sidenav */
+@import "/css/componentes/sidenav.css";
+
+/* Conteúdo principal */
+@import "/css/componentes/content.css";
+
+/* Anúncios */
+@import "/css/componentes/anuncios.css";
+
+/* Footer */
+@import "/css/componentes/footer.css";

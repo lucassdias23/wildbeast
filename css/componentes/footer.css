@@ -1,0 +1,12 @@
+.footer {
+  grid-area: footer;
+  background: linear-gradient(90deg, #11161b 0%, #1a242d 100%);
+  border-top: 2px solid #d4af37;
+}
+
+.footer p {
+  text-align: center;
+  padding: 30px;
+  color: var(--texto);
+  opacity: 0.6;
+}
